@@ -26,16 +26,16 @@ This project involves building an automatic weather station using an ESP32 micro
 
 - Install the Arduino IDE or Thonny IDE.
 - Install the required libraries for the ESP32 and DFRobot Sensor.
-Upload the provided code to the ESP32.
-Web Interface:
+- Upload the provided code to the ESP32.
+### 3.Web Interface:
 
-Set up a local or remote server to host the web interface.
-Upload the provided HTML/CSS/JavaScript files to the server.
-Configure the ESP32 to send data to the server’s IP address.
-ThingSpeak Integration (Optional):
+- Set up a local or remote server to host the web interface. (using Google site or Github)
+- Upload the provided HTML/CSS/JavaScript files to the server.
+- Configure the ESP32 to send data to the server’s IP address.
+### 4.ThingSpeak Integration (Optional):
 
-Set up a ThingSpeak account and create a new channel.
-Configure the ESP32 to send data to ThingSpeak using the provided API key.
-Usage
-Once set up, the weather station will start collecting and transmitting data automatically.
-Access the web interface through your browser to view the live data.
+- Set up a ThingSpeak account and create a new channel.
+- Configure the ESP32 to send data to ThingSpeak using the provided API key.
+### Usage
+- Once set up, the weather station will start collecting and transmitting data automatically.
+- Access the web interface through your browser to view the live data.
