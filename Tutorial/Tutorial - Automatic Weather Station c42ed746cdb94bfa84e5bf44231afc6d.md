@@ -33,7 +33,7 @@
     - Connect your ESP32 to your laptop through USB or Type C wire
     - Open Thonny and choose run and choose “Configure interpreter”
     
-    ![Screenshot 2024-08-09 124337.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-09_124337.png)
+    ![Config interpreter](config interpreter.png)
     
     - Choose microPython and port that your laptop connect to ESP32
     - Click “Install or update Micropython” to download firmware to ESP32 (so that ESP32 can run Thonny code (Python))
