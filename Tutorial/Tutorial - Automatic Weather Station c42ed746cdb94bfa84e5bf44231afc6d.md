@@ -450,4 +450,6 @@ The application uses custom styles to:
 The CSS includes settings for making the application responsive across different devices using the viewport meta tag.
 
 #Notion
-### View more on this notion link: https://cheddar-area-af9.notion.site/Tutorial-Automatic-Weather-Station-c42ed746cdb94bfa84e5bf44231afc6d?pvs=4
+### View more on this notion link: [Hướng dẫn Tiếng việt](https://cheddar-area-af9.notion.site/H-ng-d-n-Tr-m-th-i-ti-t-t-ng-73f8edaca5364bc188933810ac749144?pvs=4)
+
+### View more on this notion link: [Tutorial English](https://cheddar-area-af9.notion.site/Tutorial-Automatic-Weather-Station-c42ed746cdb94bfa84e5bf44231afc6d?pvs=4)
