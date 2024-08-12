@@ -38,7 +38,7 @@
     - Choose microPython and port that your laptop connect to ESP32
     - Click “Install or update Micropython” to download firmware to ESP32 (so that ESP32 can run Thonny code (Python))
     
-    ![Screenshot 2024-08-09 124751.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-09_124751.png)
+    ![Install_firmware_esp32](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/Install_firmware_esp32.png))
     
 - Connect DF Robot Environmental sensor to I2C port in shell of ESP32
 
@@ -47,7 +47,7 @@
 - Install Thonny IDE
 - Create Thingspeak account and create channel
     
-    ![Screenshot 2024-08-09 130003.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-09_130003.png)
+    ![Create channel](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/Create_channel.png))
     
 
 # 3. Thingspeak setup
@@ -55,19 +55,19 @@
 - Create a channel
 - Name a channel and choose field for your project (max: 8 fields). Save channel
     
-    ![Screenshot 2024-08-12 100513.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-12_100513.png)
+    ![Create channel](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/Create_channel.png))
     
 - Remember the channel id. Note: The id is different in every channel so check the channel id carefully
     
-    ![Screenshot 2024-08-12 100910.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-12_100910.png)
+    ![Create channel and choose fields](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/Create_channels_choose_fields.png))
     
 - Sharing the project to public view so everyone can see it.
     
-    ![Screenshot 2024-08-12 101307.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-12_101307.png)
+    ![Share channel](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/Share_channels.png))
     
 - Check and remember the API KEYS for read and write
     
-    ![Screenshot 2024-08-12 101353.png](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Screenshot_2024-08-12_101353.png)
+     ![API Keys](https://github.com/henrytran412/Automatic_Weather_Station_Guide/raw/main/Pictures/API_keys.png))
     
 
 # 4. Python code
@@ -377,7 +377,7 @@
 
 # 5. Web Platform
 
-![Untitled](Tutorial%20-%20Automatic%20Weather%20Station%20c42ed746cdb94bfa84e5bf44231afc6d/Untitled.png)
+![User Interface Image 1](https://github.com/dngvmnh/Automatic_Weather_Station/raw/main/assets/demo_1.png)
 
 ## Structure of the HTML Document
 
